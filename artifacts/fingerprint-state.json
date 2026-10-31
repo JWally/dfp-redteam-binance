@@ -1,0 +1,54 @@
+{
+  "device": {
+    "platform": {
+      "isMobile": false,
+      "isPc": true,
+      "isTablet": false
+    },
+    "ua": {
+      "raw": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+      "parsed": {
+        "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+        "browser": {
+          "name": "Chrome",
+          "version": "148.0.7778.96",
+          "major": "148"
+        },
+        "engine": {
+          "name": "Blink",
+          "version": "148.0.7778.96"
+        },
+        "os": {
+          "name": "Linux",
+          "version": ""
+        },
+        "device": {
+          "type": "desktop"
+        },
+        "cpu": {},
+        "platform": {
+          "type": "desktop"
+        }
+      }
+    },
+    "hybrid": {
+      "isHybrid": false
+    }
+  },
+  "localKeys": [
+    [
+      "__BNC_FP_INFO__",
+      "{\"value\":\"{\\\"screen_resolution\\\":\\\"900,1280\\\",\\\"available_screen_resolution\\\":\\\""
+    ],
+    [
+      "deviceId",
+      "8808ff30-a92b-4cb6-a986-061dae070e92"
+    ]
+  ],
+  "cookies": [
+    "bnc-uuid=d6693352-0fa8-438d-9ec9-4901ec8b3b6b",
+    "BNC_FV_KEY=33385b50fa6daab28a799eba7dfefd280e22cab8",
+    "BNC_FV_KEY_T=101-tpKTiWcvlc2oakORuid3qSiRB6rQIO5XLIHX0ktQYZxE9lRP%2FdduWZ7AFha0frIlMzdJetVN%2Bow%2F0yTfFXe7bw%3D%3D-wZLdkdgR8tfI36IJlCESyw%3D%3D-46",
+    "BNC_FV_KEY_EXPIRE=1793471984930"
+  ]
+}

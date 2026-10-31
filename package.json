@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-binance",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Binance security stack assessment: AWS WAF challenge + in-house BNC_FV_KEY device fingerprint (read full __BNC_FP_INFO__, proved tamperable) + Themis + HMAC/2FA (authorized, observed/local, 2026-10-31)",
+  "scripts": { "probe": "node scripts/bn-probe.mjs", "tamper": "node scripts/bn-tamper.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

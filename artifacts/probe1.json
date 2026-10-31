@@ -1,0 +1,308 @@
+{
+  "state": {
+    "title": "Binance Crypto Exchange: Buy, Sell Bitcoin, Ethereum, Stocks & More",
+    "bodyStart": "Looks like you’re in the United States. Switch to Binance.US to start your crypto journey.\nVisit Binance.US\nBuy Crypto\nMarkets\nTrade\nFutures\nTradFi\n\nNew\n\nEarn\nSquare\nInstitutional\nLog In\nSign Up\nIt lo",
+    "fpGlobals": [
+      "devicePixelRatio",
+      "onsecuritypolicyviolation",
+      "ondevicemotion",
+      "ondeviceorientation",
+      "ondeviceorientationabsolute",
+      "isNewDevice",
+      "_bn_reporter",
+      "_bn_reporter_version",
+      "_bn_http_init",
+      "_bn_http_prefetch",
+      "_bne"
+    ],
+    "cookies": [
+      "aws-waf-token",
+      "bnc-uuid",
+      "BNC_FV_KEY",
+      "BNC_FV_KEY_T",
+      "BNC_FV_KEY_EXPIRE"
+    ]
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.binance.com/"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://fe4385362baa.5a934fa8.us-east-1.token.awswaf.com/fe4385362baa/306922cde096/8b22eb923d34/challenge.js"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://fe4385362baa.5a934fa8.us-east-1.token.awswaf.com/fe4385362baa/306922cde096/8b22eb923d34/inputs?client=browser"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://fe4385362baa.5a934fa8.us-east-1.token.awswaf.com/fe4385362baa/306922cde096/8b22eb923d34/mp_verify?region=us-east-1"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.binance.com/"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.binance.com/en"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "https://bin.bnbstatic.com/static/cookie-manager/binance-com/config.json"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://bin.bnbstatic.com/static/fonts/bn/v2/BinanceNova-Medium.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://bin.bnbstatic.com/static/fonts/bn/v2/BinanceNova-SemiBold.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://bin.bnbstatic.com/static/fonts/bn/v2/BinanceNova-Regular.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://browser.sentry-cdn.com/7.120.4/bundle.es5.min.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/accounts/v1/public/authcenter/auth"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://o529943.ingest.sentry.io/api/6149229/envelope/?sentry_key=949d37812f604f039041170b5601fa1a&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.120.4"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/accounts/v2/public/account/ip/country-city-short"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/accounts/v2/public/account/ip/country-city-short"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/compliance/v1/friendly/compliance/market/banner-compliance-check"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/friendly/apex/marketing/complianceActionCheck?requestLink=www.binance.com%2Fen"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/compliance/v1/friendly/compliance/businessCheckV2?platform=WEB"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/accounts/v2/public/account/ip/country-city-short"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/friendly/apex/compliance/notification/display-detail?key=ChinaDialogHomeVisi&preCheck=true&currency=undefined"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/querylangMappingByKey"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/composite/v1/public/growth-activity/loyalty/onboarding/topBarAndTopCTA"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/friendly/apex/marketing/market/getNewLangRecommend"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v2/public/apex/marketing/web/commonConfig"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/composite/v1/public/growth-activity/loyalty/onboarding/topBarAndTopCTA"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/asset/v2/friendly/asset-service/product/get-product-dynamic?includeEtf=true"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/asset/v2/friendly/asset-service/product/get-product-static?includeEtf=true"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "blob:https://www.binance.com/66a27548-746e-4dff-9a46-c0cefa76a27b"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/visible2?deviceId=4f591736-b55a-495f-8a3e-eb7a24912500"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/visible2?deviceId=4f591736-b55a-495f-8a3e-eb7a24912500"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/fe/cms/region/language"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://bin.bnbstatic.com/static/chunks/ws-http-sdk.ec39820c.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v2/friendly/apex/marketing/banners"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://bin.bnbstatic.com/api/i18n/-/web/cms/en/binance-chat"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://bin.bnbstatic.com/static/chunks/dynamic-fingerprint.4a1db346.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/has-unread"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/fvideo/dt/sign/web?en=YDS&t=binance&v=KSU"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/compliance/v1/friendly/compliance/businessCheckV2?platform=WEB"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/asset/v2/public/asset/asset/get-all-asset"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/equity/v1/public/equity/symbol/get-symbols-static"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/equity/v1/public/equity/symbol/get-symbols-dynamic"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://bin.bnbstatic.com/api/i18n/-/web/cms/en/binance-chat"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://public.bnbstatic.com/unpkg/monitor/reporter-sdk@4.5.45.js"
+    },
+    {
+      "method": "POST",
+      "type": "xhr",
+      "url": "https://api.saasexch.com/bapi/fe/usd/sa.gif?project=binance"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/accounts/v1/public/authcenter/auth"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/composite/v1/public/falcon/v2/cg"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://accounts.binance.com/en/login/switch/callback"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/base-info"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.binance.com/bapi/haodesk/v3/public/haodesk/std/common/config/js?pathName=%2Fen&h=www.binance.com"
+    },
+    {
+      "method": "POST",
+      "type": "xhr",
+      "url": "https://api.saasexch.com/bapi/fe/usd/sa.gif?project=binance"
+    }
+  ]
+}

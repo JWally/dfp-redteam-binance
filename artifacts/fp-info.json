@@ -1,0 +1,22 @@
+{
+  "raw": "{\"value\":\"{\\\"screen_resolution\\\":\\\"900,1280\\\",\\\"available_screen_resolution\\\":\\\"900,1280\\\",\\\"system_version\\\":\\\"Linux \\\",\\\"brand_model\\\":\\\"unknown\\\",\\\"system_lang\\\":\\\"en-US\\\",\\\"timezone\\\":\\\"GMT-05:00\\\",\\\"timezoneOffset\\\":300,\\\"user_agent\\\":\\\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML,",
+  "parsed": {
+    "screen_resolution": "900,1280",
+    "available_screen_resolution": "900,1280",
+    "system_version": "Linux ",
+    "brand_model": "unknown",
+    "system_lang": "en-US",
+    "timezone": "GMT-05:00",
+    "timezoneOffset": 300,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+    "list_plugin": "",
+    "canvas_code": "8c6d5a13",
+    "webgl_vendor": "Google Inc. (Google)",
+    "webgl_renderer": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+    "audio": "124.04347527516074",
+    "platform": "Linux x86_64",
+    "web_timezone": "America/Chicago",
+    "device_name": "Chrome V148.0.7778.96 (Linux)",
+    "fingerprint": "08a1a901da0a12f69df213c8a36049e4"
+  }
+}

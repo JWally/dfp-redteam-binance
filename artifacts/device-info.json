@@ -1,0 +1,45 @@
+{
+  "device": {
+    "platform": {
+      "isMobile": false,
+      "isPc": true,
+      "isTablet": false
+    },
+    "ua": {
+      "raw": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+      "parsed": {
+        "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+        "browser": {
+          "name": "Chrome",
+          "version": "148.0.7778.96",
+          "major": "148"
+        },
+        "engine": {
+          "name": "Blink",
+          "version": "148.0.7778.96"
+        },
+        "os": {
+          "name": "Linux",
+          "version": ""
+        },
+        "device": {
+          "type": "desktop"
+        },
+        "cpu": {},
+        "platform": {
+          "type": "desktop"
+        }
+      }
+    },
+    "hybrid": {
+      "isHybrid": false
+    }
+  },
+  "cookies": [
+    "aws-waf-token=36083c04-50e8-44b7-a871-4f61efc76461:EQoAt96HUDat1wAA:CFbDT2T6yEyeDi8+RAJQKfjJ5bW0MhruFVLOsTBgN1rwVpYGs72O4OmRKQTR1jXL55v+6i3Vmqlgjeu/jB5CsbZF43cuMuBo7ttmCkf9iUpRdHdlRUWCaiu/JJ5o7bMayQh/S/vImNoHDqyvp9r04DstXV+2a+mhsaEFDeBUT9VT4IN6UBvevnJdhfOTtkYpPkHPSBYpiFUsw4i/U1QkVJxybL7QJ8hcBgbFBNcWWdKnHlNtPNAHujqnLUeYt+e9SXTfF/id9OQT9m5dsHP1pLfrL60CvEi1QySamPvQ0qgL1Orm",
+    "bnc-uuid=b3ee5a2f-0f9f-493b-aab6-26edd67d28fb",
+    "BNC_FV_KEY=33506b79a4aaaedabad3077afcf11306ee785483",
+    "BNC_FV_KEY_T=101-%2FLdPquQPPbEzgl1ck88JLx9NITJDSN7FnQOCL3I3uB9FwsRIot2n6rndy2HK%2BQvBuQnph1GalMVqo9EesJ%2FoHw%3D%3D-2D4BJuJ16tj4CYfa3YFy3A%3D%3D-45",
+    "BNC_FV_KEY_EXPIRE=1793471898130"
+  ]
+}

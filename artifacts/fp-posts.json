@@ -1,0 +1,50 @@
+[
+  [
+    "https://api.saasexch.co/bapi/themis/api/v2/strategy/codeless/query",
+    "{\"trace_id\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"strategy_ids\":[],\"app_version\":\"\",\"env\":\"PROD\",\"codeless\":true,\"ssr\":true,\"current_url\":\"https://www.binance.com/en\",\"custom_fields\":{\"isCodelessHomepageLogin\":\"unLogined\"},\"device_id\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"sdk_version\":\"2.0.0\",\"user_agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"}"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/expt/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/fg/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/expt/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/fg/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.com/bapi/fe/pda/v1/submit/web/batch?project=cc1ljun9gpbp8ciciolg",
+    "{\"deviceId\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"platformType\":3,\"appver\":\"1.0\",\"sdkver\":\"1.0\",\"bundle\":\"\",\"events\":[{\"type\":\"polaris-web\",\"ts\":1793450466977,\"id\":\"09029164620874586\",\"data\":\"{\\\"tc\\\":\\\"default\\\",\\\"t\\\":\\\"PIKA_HTML_ENTRY_START\\\",\\\"b\\\":\\\"Frontend\\\",\\\"pj\\\":\\\"template-ui\\\",\\\"pid\\\":\\\"clh8tkg2i11347950seis61i40vf\\\",\\\"p\\\":\\\"https://www.binance.com/en\\\",\\\"ctt\\\":\\\"Browser\\\",\\\"dvt\\\":\\\"pc\\\",\\\"h\\\":\\\"h2\\\",\\\"meta\\\":{\\\"platform\\\":\\\"web\\\",\\\"pikaVersion\\\":\\\"0.8.64\\\",\\\"ssr\\\":true,\\\"packageName\\\""
+  ],
+  [
+    "https://api.saasexch.com/bapi/fe/pda/v1/submit/web/batch?project=cc1ljun9gpbp8ciciolg",
+    "{\"deviceId\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"platformType\":3,\"appver\":\"1.0\",\"sdkver\":\"1.0\",\"bundle\":\"\",\"events\":[{\"type\":\"polaris-web\",\"ts\":1793450467001,\"id\":\"5614370163242504\",\"data\":\"{\\\"tc\\\":\\\"default\\\",\\\"t\\\":\\\"PAGE-TTFB\\\",\\\"b\\\":\\\"Frontend\\\",\\\"pj\\\":\\\"template-ui\\\",\\\"pid\\\":\\\"clh8tkg2i11347950seis61i40vf\\\",\\\"p\\\":\\\"https://www.binance.com/en\\\",\\\"ctt\\\":\\\"Browser\\\",\\\"dvt\\\":\\\"pc\\\",\\\"h\\\":\\\"h2\\\",\\\"meta\\\":{\\\"platform\\\":\\\"web\\\",\\\"pikaVersion\\\":\\\"0.8.64\\\",\\\"ssr\\\":true,\\\"packageName\\\":\\\"template-u"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/expt/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.co/bapi/fe/themis/v3/fg/query",
+    "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"US\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\",\"lang\":\"en\"}"
+  ],
+  [
+    "https://api.saasexch.com/bapi/fe/pda/v1/submit/web/batch?project=cc1ljun9gpbp8ciciolg",
+    "{\"deviceId\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"platformType\":3,\"appver\":\"1.0\",\"sdkver\":\"1.0\",\"bundle\":\"\",\"events\":[{\"type\":\"e2e-network-web\",\"ts\":1793450467001,\"id\":\"3161705147909033\",\"data\":\"{\\\"meta\\\":{\\\"platform\\\":\\\"web\\\",\\\"pikaVersion\\\":\\\"0.8.64\\\",\\\"ssr\\\":true,\\\"packageName\\\":\\\"template-ui\\\",\\\"projectName\\\":\\\"template-ui\\\",\\\"teamName\\\":\\\"Frontend\\\",\\\"projectId\\\":\\\"clh8tkg2i11347950seis61i40vf\\\",\\\"os\\\":\\\"Linux \\\",\\\"bwn\\\":\\\"Chrome\\\",\\\"bwv\\\":\\\"148.0.7778.96\\\"},\\\"context\\\":{\\\"session\\\":\\\"5f9"
+  ],
+  [
+    "https://api.saasexch.com/bapi/fe/pda/v1/submit/web/batch?project=cc1ljun9gpbp8ciciolg",
+    "{\"deviceId\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"platformType\":3,\"appver\":\"1.0\",\"sdkver\":\"1.0\",\"bundle\":\"\",\"events\":[{\"type\":\"e2e-network-web\",\"ts\":1793450470678,\"id\":\"33473625112195105\",\"data\":\"{\\\"meta\\\":{\\\"platform\\\":\\\"web\\\",\\\"pikaVersion\\\":\\\"0.8.64\\\",\\\"ssr\\\":true,\\\"packageName\\\":\\\"template-ui\\\",\\\"projectName\\\":\\\"template-ui\\\",\\\"teamName\\\":\\\"Frontend\\\",\\\"projectId\\\":\\\"clh8tkg2i11347950seis61i40vf\\\",\\\"os\\\":\\\"Linux \\\",\\\"bwn\\\":\\\"Chrome\\\",\\\"bwv\\\":\\\"148.0.7778.96\\\"},\\\"context\\\":{\\\"session\\\":\\\"5f"
+  ],
+  [
+    "https://api.saasexch.com/bapi/fe/pda/v1/submit/web/batch?project=cc1ljun9gpbp8ciciolg",
+    "{\"deviceId\":\"35f97c18-7ede-48e2-a6c2-c83ff719ed3b\",\"platformType\":3,\"appver\":\"1.0\",\"sdkver\":\"1.0\",\"bundle\":\"\",\"events\":[{\"type\":\"e2e-network-web\",\"ts\":1793450470705,\"id\":\"4806617697407367\",\"data\":\"{\\\"meta\\\":{\\\"platform\\\":\\\"web\\\",\\\"pikaVersion\\\":\\\"0.8.64\\\",\\\"ssr\\\":true,\\\"packageName\\\":\\\"template-ui\\\",\\\"projectName\\\":\\\"template-ui\\\",\\\"teamName\\\":\\\"Frontend\\\",\\\"projectId\\\":\\\"clh8tkg2i11347950seis61i40vf\\\",\\\"os\\\":\\\"Linux \\\",\\\"bwn\\\":\\\"Chrome\\\",\\\"bwv\\\":\\\"148.0.7778.96\\\"},\\\"context\\\":{\\\"session\\\":\\\"5f9"
+  ]
+]
